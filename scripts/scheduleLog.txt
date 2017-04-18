@@ -1,0 +1,35 @@
+Nothing is executing. Running on min resources Total Running Apps:0 Total Accepted Apps:0. Total Instances:2
+Nothing is executing. Running on min resources Total Running Apps:0 Total Accepted Apps:0. Total Instances:2
+Sat Apr  9 17:27:03 PDT 2016 Time to scale up. Total Running Apps:1 Total Accepted Apps:18. Total Instances:2
+Sat Apr  9 17:28:07 PDT 2016 Time to scale up. Total Running Apps:1 Total Accepted Apps:16. Total Instances:3
+Sat Apr  9 17:29:04 PDT 2016 Time to scale up. Total Running Apps:2 Total Accepted Apps:14. Total Instances:4
+Sat Apr  9 17:30:03 PDT 2016 Time to scale up. Total Running Apps:4 Total Accepted Apps:9. Total Instances:5
+Sat Apr  9 17:31:03 PDT 2016 Time to scale up. Total Running Apps:1 Total Accepted Apps:3. Total Instances:6
+Sat Apr  9 17:32:03 PDT 2016 Time to scale down. Total Running Apps:0 Total Accepted Apps:0. Total Instances:6
+Nothing is executing. Running on min resources Total Running Apps:0 Total Accepted Apps:0. Total Instances:2
+Nothing is executing. Running on min resources Total Running Apps:0 Total Accepted Apps:0. Total Instances:2
+Nothing is executing. Running on min resources Total Running Apps:0 Total Accepted Apps:0. Total Instances:2
+Nothing is executing. Running on min resources Total Running Apps:0 Total Accepted Apps:0. Total Instances:2
+Nothing is executing. Running on min resources Total Running Apps:0 Total Accepted Apps:0. Total Instances:2
+Sat Apr  9 18:10:03 PDT 2016 Time to scale up. Total Running Apps:1 Total Accepted Apps:8. Total Instances:2
+Sat Apr  9 18:11:03 PDT 2016 Time to scale up. Total Running Apps:1 Total Accepted Apps:5. Total Instances:3
+Sat Apr  9 18:12:03 PDT 2016 All is good.Total Running Apps:1 Total Accepted Apps:0. Total Instances:4
+Sat Apr  9 18:13:03 PDT 2016 Time to scale down. Total Running Apps:0 Total Accepted Apps:0. Total Instances:4
+Nothing is executing. Running on min resources Total Running Apps:0 Total Accepted Apps:0. Total Instances:2
+Nothing is executing. Running on min resources Total Running Apps:0 Total Accepted Apps:0. Total Instances:2
+Nothing is executing. Running on min resources Total Running Apps:0 Total Accepted Apps:0. Total Instances:2
+Nothing is executing. Running on min resources Total Running Apps:0 Total Accepted Apps:0. Total Instances:2
+Nothing is executing. Running on min resources Total Running Apps:0 Total Accepted Apps:0. Total Instances:2
+Sat Apr  9 18:19:03 PDT 2016 Time to scale up. Total Running Apps:2 Total Accepted Apps:4. Total Instances:2
+Sat Apr  9 18:20:06 PDT 2016 All is good.Total Running Apps:1 Total Accepted Apps:1. Total Instances:3
+Sat Apr  9 18:21:03 PDT 2016 Time to scale down. Total Running Apps:0 Total Accepted Apps:0. Total Instances:3
+Nothing is executing. Running on min resources Total Running Apps:0 Total Accepted Apps:0. Total Instances:2
+Nothing is executing. Running on min resources Total Running Apps:0 Total Accepted Apps:0. Total Instances:2
+Nothing is executing. Running on min resources Total Running Apps:0 Total Accepted Apps:0. Total Instances:2
+Nothing is executing. Running on min resources Total Running Apps:0 Total Accepted Apps:0. Total Instances:2
+Sat Apr  9 18:26:03 PDT 2016 Time to scale up. Total Running Apps:0 Total Accepted Apps:13. Total Instances:2
+Sat Apr  9 18:27:09 PDT 2016 Time to scale up. Total Running Apps:1 Total Accepted Apps:10. Total Instances:3
+Sat Apr  9 18:28:03 PDT 2016 Time to scale up. Total Running Apps:2 Total Accepted Apps:8. Total Instances:4
+Sat Apr  9 18:29:04 PDT 2016 Time to scale up. Total Running Apps:2 Total Accepted Apps:4. Total Instances:5
+Sat Apr  9 18:30:03 PDT 2016 Time to scale down. Total Running Apps:0 Total Accepted Apps:0. Total Instances:6
+Nothing is executing. Running on min resources Total Running Apps:0 Total Accepted Apps:0. Total Instances:2
